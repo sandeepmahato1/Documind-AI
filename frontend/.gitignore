@@ -1,0 +1,7 @@
+# Frontend Dependencies & Build
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
